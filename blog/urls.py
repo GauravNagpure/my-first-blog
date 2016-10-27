@@ -1,6 +1,7 @@
 from django.conf.urls import url
 from . import views
 
-    urlpatterns = [
-        patterns('',url(r'^$', direct_to_template, {'template' : 'a.html'}),
+urlpatterns = [
+    url(r'^$', views.post_list, name='post_list'),
 ]
+
