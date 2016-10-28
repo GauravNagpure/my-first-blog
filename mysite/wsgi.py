@@ -1,7 +1,7 @@
 import os
 import sys
 
-path = '/home/<your-PythonAnywhere-username>/my-first-blog'  # use your own PythonAnywhere username here
+path = '/home/newOne/my-first-blog'  # use your own PythonAnywhere username here
 if path not in sys.path:
     sys.path.append(path)
 
