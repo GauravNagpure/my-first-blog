@@ -1,0 +1,207 @@
+[33mcommit 81317d9a343b7faed93f51136d516e7c7e5d4741[m
+Author: newOne <gpnagpure@gmail.com>
+Date:   Thu Nov 3 06:14:54 2016 +0000
+
+    blog modified
+
+[33mcommit 337d6f6b86cfd7993bc4d9c38fa0e76b150d050a[m
+Author: Gaurav <abc@gmail.com>
+Date:   Thu Nov 3 10:28:37 2016 +0530
+
+    alighnment of date
+
+[33mcommit 1c4ee8589346cf13556e55c95fa3aefe233aa9aa[m
+Author: Gaurav <abc@gmail.com>
+Date:   Wed Nov 2 17:23:38 2016 +0530
+
+    modified views
+
+[33mcommit 80258a63d527873d19cd90adf9dfc594dc3b4429[m
+Author: Gaurav <abc@gmail.com>
+Date:   Wed Nov 2 16:48:42 2016 +0530
+
+    Extended application
+
+[33mcommit 81610680955bdc6f86366081f1a64db28df61eab[m
+Merge: d42d200 c67b265
+Author: Gaurav <abc@gmail.com>
+Date:   Wed Nov 2 12:14:37 2016 +0530
+
+    all copied
+
+[33mcommit d42d2007d9ca698d2541c3445e0b12cc9fdb06ac[m
+Author: Gaurav <abc@gmail.com>
+Date:   Wed Nov 2 12:05:27 2016 +0530
+
+    my Dajango First commit
+
+[33mcommit c67b265176a4a38f91ec1bd32f662af82bdb1be3[m
+Author: vikrant <abv@gmail.com>
+Date:   Tue Nov 1 12:20:22 2016 +0530
+
+    updated and extended all template files
+
+[33mcommit c1d241cc00768e328fce02b271134bf5fafdc7a6[m
+Author: vikrant <abv@gmail.com>
+Date:   Tue Nov 1 09:33:55 2016 +0530
+
+    change in indentation of views
+
+[33mcommit c68aeaeeac3c1dba4285a1dc8e5e15d6a2ac5697[m
+Author: vikrant <abv@gmail.com>
+Date:   Fri Oct 28 12:15:33 2016 +0530
+
+    chang in views_post indentation_error 1
+
+[33mcommit ca2956c60c75e282e42d635e8d9142ee079e5921[m
+Author: vikrant <abv@gmail.com>
+Date:   Fri Oct 28 12:11:58 2016 +0530
+
+    chang in views_post indentation_error
+
+[33mcommit 33bc74e4d235e50c84a6e1c7f23433293f8c0dae[m
+Author: vikrant <abv@gmail.com>
+Date:   Fri Oct 28 12:00:12 2016 +0530
+
+    modified templates to display posts from database.1
+
+[33mcommit 455b7a4883e9543fc8fa2eaf13f16d0b886b271b[m
+Author: vikrant <abv@gmail.com>
+Date:   Fri Oct 28 11:55:11 2016 +0530
+
+    modified templates to display posts from database.
+
+[33mcommit d23a374686f4573ccb3654a79837ddf46c3f5ed2[m
+Author: vikrant <abv@gmail.com>
+Date:   Fri Oct 28 10:07:34 2016 +0530
+
+    updation in WSGI
+
+[33mcommit 500c0bba6909a5b35ec34544785bdb687917264a[m
+Author: vikrant <abv@gmail.com>
+Date:   Fri Oct 28 09:55:32 2016 +0530
+
+    template path updation in view2
+
+[33mcommit 13b20e1af719e479630774bf042804dd227798bc[m
+Author: vikrant <abv@gmail.com>
+Date:   Fri Oct 28 09:40:37 2016 +0530
+
+    template path updation in view
+
+[33mcommit 5697843a0279e1f6f4df986ad9e890a3dc5b3333[m
+Author: vikrant <abv@gmail.com>
+Date:   Fri Oct 28 09:34:48 2016 +0530
+
+    wsgi file updated
+
+[33mcommit b5e8491ca815fc8bea18d86e52a67731c3c2a952[m
+Merge: 2ef3a94 a3f7149
+Author: newOne <gpnagpure@gmail.com>
+Date:   Thu Oct 27 11:48:27 2016 +0000
+
+    error handled
+
+[33mcommit a3f71499847ff3384612693d995310e89e136848[m
+Author: vikrant <abv@gmail.com>
+Date:   Thu Oct 27 16:40:57 2016 +0530
+
+    changed the HTML for the site.
+
+[33mcommit 88c74f0a0d75c47f049e0d648ae33302ee95ee6e[m
+Author: vikrant <abv@gmail.com>
+Date:   Thu Oct 27 16:32:31 2016 +0530
+
+    again modified URL
+
+[33mcommit ff8822971c53bd9608c6e3e8359c197959ef309f[m
+Author: vikrant <abv@gmail.com>
+Date:   Thu Oct 27 16:24:43 2016 +0530
+
+    modified HTML file
+
+[33mcommit 2ef3a9494fb99043bd91afffe903a939d4d03a9b[m
+Merge: eb688c5 d113483
+Author: newOne <gpnagpure@gmail.com>
+Date:   Thu Oct 27 10:49:10 2016 +0000
+
+    merged
+
+[33mcommit ef000ada6fabe1d0ac243466a2b148fdb7460e02[m
+Author: vikrant <abv@gmail.com>
+Date:   Thu Oct 27 16:12:30 2016 +0530
+
+    modified Html template
+
+[33mcommit eb688c5f22cd1e80119005f1f96f4a93dad8890d[m
+Author: newOne <gpnagpure@gmail.com>
+Date:   Thu Oct 27 10:34:19 2016 +0000
+
+    hello
+
+[33mcommit 518521824f8862bf53b03f8104f20b0f080b085b[m
+Author: newOne <gpnagpure@gmail.com>
+Date:   Thu Oct 27 10:24:18 2016 +0000
+
+    modified
+
+[33mcommit d113483169de03fb87548b0b500b13f978142d76[m
+Author: vikrant <abv@gmail.com>
+Date:   Thu Oct 27 15:52:50 2016 +0530
+
+    modified urls
+
+[33mcommit 103c40c615c93d330779557b13a95547886a662d[m
+Author: vikrant <abv@gmail.com>
+Date:   Thu Oct 27 15:43:38 2016 +0530
+
+    added Html template
+
+[33mcommit 1e1979bc5825b1e0426f2d69c5f2be205a3445c2[m
+Merge: f1f133a 39c02d5
+Author: newOne <gpnagpure@gmail.com>
+Date:   Thu Oct 27 09:51:57 2016 +0000
+
+    modified
+
+[33mcommit f66b6d65f59adb452876c77beac06cdacd31bf37[m
+Author: vikrant <abv@gmail.com>
+Date:   Thu Oct 27 15:09:58 2016 +0530
+
+    added views.py in stage
+
+[33mcommit 90b2442e666edb2b5de28977aa65fb768c037811[m
+Author: vikrant <abv@gmail.com>
+Date:   Thu Oct 27 14:50:56 2016 +0530
+
+    Added Comment in view
+
+[33mcommit 7dd705937121bb23c5c4ab696c62ab86b8b51858[m
+Author: vikrant <abv@gmail.com>
+Date:   Thu Oct 27 14:36:00 2016 +0530
+
+    my second commit
+
+[33mcommit 4d8281ca898b0ffd48ebe753cf9eef4cdf6341d0[m
+Author: vikrant <abv@gmail.com>
+Date:   Thu Oct 27 14:10:41 2016 +0530
+
+    pushing view
+
+[33mcommit f1f133a87c11d5b848a79426db8dc169335552df[m
+Author: newOne <gpnagpure@gmail.com>
+Date:   Thu Oct 27 07:05:28 2016 +0000
+
+    pulled files
+
+[33mcommit 39c02d55651edd7e47e12090e2c24c3ebd1587f7[m
+Author: vikrant <abv@gmail.com>
+Date:   Thu Oct 27 12:11:36 2016 +0530
+
+    my django girls app, first commit
+
+[33mcommit cad79c0ff5d8833f315a72c3ebf93c37d3d6222e[m
+Author: Gaurav <gpnagpure@gmail.com>
+Date:   Wed Oct 26 15:56:53 2016 +0530
+
+    My Django Girls app ,First commit
