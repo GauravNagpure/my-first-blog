@@ -11,5 +11,10 @@
 	<h1>{{ post.title }}</h1>
 	<p>{{ post.text|linebreaksbr }}</p>
 	<p align="right"><a href ="https://www.google.com/search?q={{post.title}}&" ><u>Google it !!</u></a></p>
-    </div>
+	</div><div><p>
+	{% if post.domain %}
+	 <h4>{{post.domain}}</h4>
+	 </p></div>
+	{% endif %}
+
 {% endblock %}
