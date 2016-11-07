@@ -7,7 +7,9 @@
 	    </div>
 	{% endif %}
 	<p align="right">
-	<a class="btn btn-default" href="{% url 'post_edit' pk=post.pk %}"><span class="glyphicon glyphicon-pencil"></span></a></p>
+	  {% if user.is_authenticated %}
+	  <a class="btn btn-default" href="{% url 'post_edit' pk=post.pk %}"><span class="glyphicon glyphicon-pencil"></span></a></p>
+	{% endif %}
 	<h1>{{ post.title }}</h1>
 	<p>{{ post.text|linebreaksbr }}</p>
 	<p align="right"><a href ="https://www.google.com/search?q={{post.title}}&" ><u>Google it !!</u></a></p>
